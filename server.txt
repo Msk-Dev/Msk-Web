@@ -1,0 +1,1 @@
+{"java_link":"https://java.com","response":"SUCCESS","database_link":"https://www.sketify.tk/api/v1/data/","status":"1"}
